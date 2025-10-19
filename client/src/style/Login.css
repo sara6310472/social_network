@@ -1,0 +1,79 @@
+body {
+  margin: 0vw;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #faf5df;
+ align-items: center;
+}
+
+.formContainer {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  color: #db7093;
+}
+
+.formWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.formGroup input {
+  width: 85%;
+  padding: 0.8rem;
+  border: 1px solid #db7093;
+  border-radius: 15px;
+  font-size: 1rem;
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+.formGroup input::placeholder {
+  color: #db7093;
+  font-style: italic;
+}
+
+.btnLogin {
+  background-color: #db7093;
+  color: white;
+  padding: 0.8rem;
+  border: none;
+  width: 70%;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block;
+  margin: 0 auto;
+}
+
+.errorMessage {
+  color: #db7093;
+  padding: 0.8rem;
+  border-radius: 5px;
+}
+
+.registerLink {
+  margin-top: 1rem;
+  color: #db7093;
+  font-size: 0.9rem;
+}
+
+.registerLink a {
+  color: #db7093;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.registerLink a:hover {
+  text-decoration: underline;
+}

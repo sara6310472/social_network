@@ -1,0 +1,190 @@
+2025-05-11 21:38:39 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:38:40 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:40 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:38:40 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:42 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:38:42 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:42 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:38:42 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:43 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:38:43 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:43 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:38:43 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:44 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:38:44 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:38:44 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:38:44 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:39:07 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:39:07 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:39:10 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:39:11 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:39:27 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:39:27 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:39:28 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:39:28 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:39:36 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:39:36 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:40:14 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:40:14 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:40:15 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:40:15 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:40:45 [info]: GET /posts by User ID: 3
+2025-05-11 21:40:45 [error]: Error retrieving all posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:41:17 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:41:17 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:41:17 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:41:17 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:41:33 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:41:55 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:41:57 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:42:23 [info]: GET /posts by User ID: 3
+2025-05-11 21:42:23 [error]: Error retrieving all posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:42:37 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:44:11 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:44:24 [info]: GET /posts by User ID: 3
+2025-05-11 21:44:24 [error]: Error retrieving all posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:02 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:45:02 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:02 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:45:02 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:24 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:45:25 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:38 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 21:45:38 [error]: Error retrieving todos: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:44 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:45:44 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:45:44 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:45:44 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 21:46:02 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 21:46:04 [info]: User 3 retrieved all posts
+2025-05-11 21:46:10 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:26:07 [info]: User logged in successfully: 3
+2025-05-11 22:27:41 [info]: User logged in successfully: 3
+2025-05-11 22:49:23 [info]: User logged in successfully: 3
+2025-05-11 22:49:26 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 22:49:35 [info]: User 3 retrieved all todos
+2025-05-11 22:49:41 [info]: GET /users/3/todos by User ID: 3
+2025-05-11 22:49:41 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:49:42 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 22:49:43 [info]: User 3 retrieved all todos
+2025-05-11 22:49:43 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:49:43 [error]: Error retrieving posts: Unknown column 'deletedAt' in 'field list'
+2025-05-11 22:49:57 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:50:00 [info]: User 3 retrieved all posts
+2025-05-11 22:50:00 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:50:14 [info]: User 3 retrieved all posts
+2025-05-11 22:52:30 [info]: User logged in successfully: 3
+2025-05-11 22:52:32 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:52:35 [info]: User 3 retrieved all posts
+2025-05-11 22:52:35 [info]: GET /users/3/posts by User ID: 3
+2025-05-11 22:52:35 [info]: User 3 retrieved all posts
+2025-05-11 22:55:25 [info]: User logged in successfully: 3
+2025-05-11 22:59:06 [error]: Error retrieving undefined: Cannot read properties of undefined (reading 'toLowerCase')
+2025-05-11 22:59:06 [error]: Error retrieving undefined: Cannot read properties of undefined (reading 'toLowerCase')
+2025-05-11 22:59:13 [error]: Error retrieving undefined: Cannot read properties of undefined (reading 'toLowerCase')
+2025-05-11 22:59:13 [error]: Error retrieving undefined: Cannot read properties of undefined (reading 'toLowerCase')
+2025-05-11 22:59:36 [info]: Retrieved all posts
+2025-05-11 23:00:42 [info]: User 3 retrieved all todos
+2025-05-11 23:00:46 [info]: User 3 retrieved all todos
+2025-05-12 19:46:37 [info]: User logged in successfully: 3
+2025-05-12 19:46:42 [info]: User 3 retrieved all todos
+2025-05-12 19:46:42 [info]: User 3 retrieved all todos
+2025-05-12 19:46:44 [info]: User 3 updated todos ID 102
+2025-05-12 19:46:46 [info]: User 3 deleted todos ID 101
+2025-05-12 19:46:51 [info]: User 3 retrieved all posts
+2025-05-12 19:46:51 [info]: User 3 retrieved all posts
+2025-05-12 19:46:55 [info]: User 3 retrieved comments for posts ID 13
+2025-05-12 19:46:55 [info]: User 3 retrieved comments for posts ID 13
+2025-05-12 20:26:05 [info]: User 3 retrieved all posts
+2025-05-12 20:26:35 [info]: User 3 retrieved all posts
+2025-05-12 20:26:35 [info]: User 3 retrieved all posts
+2025-05-12 20:26:37 [info]: User 3 retrieved all posts
+2025-05-12 20:26:39 [info]: User 3 retrieved all posts
+2025-05-12 20:30:52 [info]: User 3 retrieved all posts
+2025-05-12 20:30:52 [info]: User 3 retrieved all posts
+2025-05-12 20:31:12 [info]: User logged in successfully: 3
+2025-05-12 20:33:03 [warn]: Token verification failed: jwt expired
+2025-05-12 20:33:03 [warn]: Token verification failed: jwt expired
+2025-05-12 20:34:08 [info]: User logged in successfully: 3
+2025-05-12 20:34:11 [info]: User 3 retrieved all todos
+2025-05-12 20:34:11 [info]: User 3 retrieved all todos
+2025-05-12 20:34:12 [info]: User 3 retrieved all posts
+2025-05-12 20:34:12 [info]: User 3 retrieved all posts
+2025-05-12 20:35:53 [info]: User logged in successfully: 4
+2025-05-12 20:35:54 [info]: User 4 retrieved all todos
+2025-05-12 20:35:54 [info]: User 4 retrieved all todos
+2025-05-12 20:35:57 [info]: User 4 retrieved all posts
+2025-05-12 20:35:57 [info]: User 4 retrieved all posts
+2025-05-12 20:36:14 [info]: Retrieved all posts
+2025-05-12 20:36:14 [info]: User 4 retrieved all posts
+2025-05-12 20:36:15 [info]: User 4 retrieved all posts
+2025-05-12 20:36:15 [info]: User 4 retrieved all posts
+2025-05-12 20:36:17 [info]: Retrieved all posts
+2025-05-12 20:36:17 [info]: User 4 retrieved all posts
+2025-05-12 20:36:22 [info]: User 4 retrieved all posts
+2025-05-12 20:36:22 [info]: User 4 retrieved all posts
+2025-05-12 20:36:34 [info]: Retrieved all posts
+2025-05-12 20:36:34 [info]: User 4 retrieved all posts
+2025-05-12 20:36:37 [info]: User 4 retrieved all posts
+2025-05-12 20:36:37 [info]: User 4 retrieved all posts
+2025-05-12 20:36:38 [info]: Retrieved all posts
+2025-05-12 20:36:38 [info]: User 4 retrieved all posts
+2025-05-12 20:37:53 [info]: User 4 retrieved all posts
+2025-05-12 20:37:58 [info]: User 4 retrieved all posts
+2025-05-12 20:37:58 [info]: User 4 retrieved all posts
+2025-05-12 20:38:18 [info]: User 4 retrieved all posts
+2025-05-12 20:38:18 [info]: User 4 retrieved all posts
+2025-05-12 20:38:20 [info]: User 4 retrieved all posts
+2025-05-12 20:38:20 [info]: User 4 retrieved all posts
+2025-05-12 20:38:28 [info]: User 4 retrieved all posts
+2025-05-12 20:38:28 [info]: User 4 retrieved all posts
+2025-05-12 20:38:44 [info]: User 4 retrieved all posts
+2025-05-12 20:38:57 [info]: User 4 retrieved all posts
+2025-05-12 20:39:11 [info]: User 4 retrieved all posts
+2025-05-12 20:39:14 [info]: User 4 retrieved all posts
+2025-05-12 20:40:00 [info]: User 4 retrieved all posts
+2025-05-12 20:40:03 [info]: User 4 retrieved all posts
+2025-05-12 20:40:40 [info]: Retrieved all posts
+2025-05-12 20:40:42 [info]: User 4 retrieved all posts
+2025-05-12 20:41:06 [info]: User 4 retrieved all posts
+2025-05-12 20:41:06 [info]: User 4 retrieved all posts
+2025-05-12 20:41:22 [info]: Retrieved all posts
+2025-05-12 20:41:25 [info]: User 4 retrieved all posts
+2025-05-12 20:41:52 [info]: User 4 retrieved all posts
+2025-05-12 20:41:52 [info]: User 4 retrieved all posts
+2025-05-12 20:41:59 [info]: Retrieved all posts
+2025-05-12 20:42:02 [info]: User 4 retrieved all posts
+2025-05-12 20:42:51 [info]: User 4 retrieved all posts
+2025-05-12 20:42:51 [info]: User 4 retrieved all posts
+2025-05-12 20:43:00 [info]: Retrieved all posts
+2025-05-12 20:43:13 [info]: User 4 retrieved all posts
+2025-05-12 20:45:42 [info]: Retrieved all posts
+2025-05-12 20:45:50 [info]: User 4 retrieved all posts
+2025-05-12 20:45:59 [info]: User 4 retrieved all posts
+2025-05-12 20:45:59 [info]: User 4 retrieved all posts
+2025-05-12 20:46:06 [info]: Retrieved all posts
+2025-05-12 20:46:07 [info]: User 4 retrieved all posts
+2025-05-12 20:46:29 [info]: User 4 retrieved all posts
+2025-05-12 20:46:30 [info]: User 4 retrieved all posts
+2025-05-12 20:46:35 [info]: Retrieved all posts
+2025-05-12 20:46:50 [info]: User 4 retrieved all posts
+2025-05-12 20:46:55 [info]: User 4 retrieved all posts
+2025-05-12 20:46:56 [info]: User 4 retrieved all posts
+2025-05-12 20:47:00 [info]: Retrieved all posts
+2025-05-12 20:47:31 [info]: User 4 retrieved all posts
+2025-05-12 20:47:31 [info]: User 4 retrieved all posts
+2025-05-12 20:47:37 [info]: User 4 retrieved all posts
+2025-05-12 20:47:38 [info]: User 4 retrieved all posts
+2025-05-12 20:47:43 [info]: Retrieved all posts
+2025-05-12 20:48:01 [info]: User 4 retrieved all posts
+2025-05-12 20:48:08 [info]: User 4 created new posts with ID 102
+2025-05-12 20:48:16 [info]: User 4 retrieved all todos
+2025-05-12 20:48:16 [info]: User 4 retrieved all todos
+2025-05-12 20:48:20 [info]: User 4 created new todos with ID 103
+2025-05-12 20:48:23 [info]: User 4 updated todos ID 103
+2025-05-12 20:48:24 [info]: User 4 retrieved all todos
+2025-05-12 20:48:24 [info]: User 4 retrieved all todos
+2025-05-12 20:49:14 [info]: User 4 retrieved all todos
+2025-05-12 20:49:28 [info]: User logged in successfully: 4
+2025-05-12 20:49:31 [info]: User 4 retrieved all posts
+2025-05-12 20:49:31 [info]: User 4 retrieved all posts
